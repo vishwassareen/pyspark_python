@@ -1,3 +1,5 @@
+
+from itertools import count
 import findspark
 findspark.init("/usr/local/spark")
 
